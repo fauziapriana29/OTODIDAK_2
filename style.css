@@ -1,0 +1,19 @@
+* { border: 1px solid black}
+.container {
+    min-width: 360px;
+}
+.judul {
+    text-align: center;
+}
+.input2 {
+    margin-top: 10px;
+}
+.input3 {
+    margin-top: -5px;
+}
+.input3 button {
+    border-radius: 0px;
+}
+.data {
+    height: 100px;
+}
